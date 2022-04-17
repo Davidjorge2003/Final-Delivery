@@ -1,0 +1,26 @@
+the getter and setter are basically made to get and set the values esier the to string methot is to string the hole thing we are doing and the methoths and equal is to compare the methot and see if they are equal or not 
+
+Person:
+we do a two abstract methot incrise salary that is going to incrise the salary 
+and increse the work hour that is going to increase the hours worked 
+subclases:
+teacher:
+incrise salaray= this methot will incrise the salary depending on how much hours u work first we will ask the user how many hours he works and 
+if you work more than 8 hours the the salray will incrise by 5% else nothing happens 
+
+increse hour work=this methot will increse the hour you work in case you work less than a 
+x hours ,soo it will do if work less than 3hours incrisee +1 else nothing 
+
+and the computerpayroll=For each full-time teacher, the salary is computed as (32 * degreeRate * 2) * 0.85, where
+degreeRate is 112, 82, 42 for PhD, Master, and Bachelor, respectively.
+ For each part-time teacher, the salary is computed as (hoursWorked * degreeRate *2) *
+0.76, where degreeRate is 112, 82, 42 for PhD, Master, and Bachelor, respectively.
+ For each staff, the salary is computed as (workload * 32 * 2) * 0.75, where workload is
+the weekly working hours. The working hours cannot exceed 40.
+
+this methot are the same for staff 
+then the subclases of teacher part time and full time 
+
+countHourWork= this methot we count the hour that he work too see how many 
+hours she works 
+this methot is algo going to be implemented in part time 
